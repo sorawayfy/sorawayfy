@@ -1,4 +1,4 @@
-<b>`[My project](https://sorawayfy.netlify.app/)`</b>
+<b>[My project](https://sorawayfy.netlify.app/)</b>
 ### Hi there 👋
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorawayfy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
