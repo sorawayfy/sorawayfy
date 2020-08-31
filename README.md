@@ -1,4 +1,5 @@
 [My project](https://sorawayfy.netlify.app/)
+<a href="https://sorawayfy.netlify.app/">Link</a>
 ### Hi there 👋
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorawayfy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
